@@ -1,5 +1,5 @@
 :root {
-  --primary: #ffd300;
+  --primary: #ff0000;
   --bg: #223958;
 }
 
@@ -346,8 +346,8 @@ body {
 }
 
 .menu .row .menu-card img {
-  border-radius: 50%;
-  width: 80%;
+  border-radius: 0%;
+  width: 20%;
 }
 
 .menu .row .menu-card .menu-card-title {
